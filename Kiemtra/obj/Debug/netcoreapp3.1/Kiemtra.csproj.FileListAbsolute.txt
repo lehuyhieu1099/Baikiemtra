@@ -1,0 +1,13 @@
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\bin\Debug\netcoreapp3.1\Kiemtra.exe
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\bin\Debug\netcoreapp3.1\Kiemtra.deps.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\bin\Debug\netcoreapp3.1\Kiemtra.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\bin\Debug\netcoreapp3.1\Kiemtra.runtimeconfig.dev.json
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\bin\Debug\netcoreapp3.1\Kiemtra.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\bin\Debug\netcoreapp3.1\Kiemtra.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.csprojAssemblyReference.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.dll
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.pdb
+C:\Users\ADMIN\Desktop\Huy Hiệu\Tryyto\Kiemtra-Hieu\Kiemtra\obj\Debug\netcoreapp3.1\Kiemtra.genruntimeconfig.cache
