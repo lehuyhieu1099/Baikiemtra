@@ -18,12 +18,12 @@ namespace Kiemtra
         public string Title { get => title; set => title = value; }
         public string Author { get => author; set => author = value; }
         public string Content { get => content; set => content = value; }
-        public float AverageRate { get => averageRate; }
+        public double AverageRate { get => averageRate; }
         public int[] Rates ;
         public  float count;
         public float CalculatorRate()
         {
-            int total = 0;
+            float total = 0;
             for (int i = 0; i < Rates.Length; i++)
             {
                  total += Rates[i];
